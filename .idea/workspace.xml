@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e09990b8-3299-4c03-a5f2-d43ca15c701d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/lib/go-1.13" />
+  <component name="ProjectId" id="1jn3Bl6WzDddl7h15rsTGF9GOXq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/SylabsGolangAssesment" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build filehandling.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="ShirleySylabsGolangAssesment" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/SylabsGolangAssesment/filehandling.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build filehandling.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="502" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1604457470550">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state x="502" y="155" width="424" height="491" key="FileChooserDialogImpl/72.27.1294.741@72.27.1294.741" timestamp="1604457470550" />
+    <state width="1248" height="172" key="GridCell.Tab.0.bottom" timestamp="1604457472137">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1248" height="172" key="GridCell.Tab.0.bottom/72.27.1294.741@72.27.1294.741" timestamp="1604457472137" />
+    <state width="1248" height="172" key="GridCell.Tab.0.center" timestamp="1604457472135">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1248" height="172" key="GridCell.Tab.0.center/72.27.1294.741@72.27.1294.741" timestamp="1604457472135" />
+    <state width="1248" height="172" key="GridCell.Tab.0.left" timestamp="1604457472134">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1248" height="172" key="GridCell.Tab.0.left/72.27.1294.741@72.27.1294.741" timestamp="1604457472134" />
+    <state width="1248" height="172" key="GridCell.Tab.0.right" timestamp="1604457472135">
+      <screen x="72" y="27" width="1294" height="741" />
+    </state>
+    <state width="1248" height="172" key="GridCell.Tab.0.right/72.27.1294.741@72.27.1294.741" timestamp="1604457472135" />
+  </component>
+</project>
